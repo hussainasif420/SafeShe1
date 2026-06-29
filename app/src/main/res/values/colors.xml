@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#FF6200EE</color>
+    <color name="primary_dark">#FF3700B3</color>
+    <color name="primary_light">#FFBB86FC</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FF000000</color>
+    <color name="text_secondary">#99000000</color>
+    <color name="text_hint">#61000000</color>
+    
+    <!-- Background Colors -->
+    <color name="background_light">#FFFFFFFF</color>
+    <color name="background_dark">#FF121212</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#FF4CAF50</color>
+    <color name="error">#FFF44336</color>
+    <color name="warning">#FFFFC107</color>
+    <color name="danger">#FFD32F2F</color>
+    <color name="safe">#FF4CAF50</color>
+    
+    <!-- Common Colors -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+    
+    <!-- Map Colors -->
+    <color name="red_zone">#80FF0000</color>
+    <color name="safe_zone">#8000FF00</color>
+    
+    <!-- Button Colors -->
+    <color name="button_background">#674C65</color>
+</resources>

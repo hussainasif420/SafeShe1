@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="safe_she">Safe She</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string-array name="relationship_types">
+        <item>Parent</item>
+        <item>Sibling</item>
+        <item>Spouse</item>
+        <item>Friend</item>
+        <item>Other</item>
+    </string-array>
+</resources>
